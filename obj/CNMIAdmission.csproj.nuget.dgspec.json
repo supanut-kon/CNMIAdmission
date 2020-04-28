@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\meow9\\CNMIAdmission\\CNMIAdmission.csproj": {}
+    "C:\\CNMIAdmission\\CNMIAdmission.csproj": {}
   },
   "projects": {
-    "C:\\Users\\meow9\\CNMIAdmission\\CNMIAdmission.csproj": {
+    "C:\\CNMIAdmission\\CNMIAdmission.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\meow9\\CNMIAdmission\\CNMIAdmission.csproj",
+        "projectUniqueName": "C:\\CNMIAdmission\\CNMIAdmission.csproj",
         "projectName": "CNMIAdmission",
-        "projectPath": "C:\\Users\\meow9\\CNMIAdmission\\CNMIAdmission.csproj",
+        "projectPath": "C:\\CNMIAdmission\\CNMIAdmission.csproj",
         "packagesPath": "C:\\Users\\meow9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\meow9\\CNMIAdmission\\obj\\",
+        "outputPath": "C:\\CNMIAdmission\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\meow9\\AppData\\Roaming\\NuGet\\NuGet.Config",
